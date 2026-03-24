@@ -12,7 +12,8 @@
       "Bash(npm uninstall:*)",
       "Bash(npm audit:*)",
       "Bash(npm test:*)",
-      "Bash(git stash:*)"
+      "Bash(git stash:*)",
+      "Bash(git checkout:*)"
     ]
   }
 }
